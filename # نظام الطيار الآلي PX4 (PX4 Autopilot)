@@ -1,0 +1,38 @@
+# نظام الطيار الآلي PX4 (PX4 Autopilot)
+
+[![Releases](https://img.shields.io/badge/release-main-blue.svg)](https://github.com/PX4/PX4-Autopilot/releases) [![Discuss](https://img.shields.io/badge/discuss-px4-ff69b4.svg)](https://discuss.px4.io//) [![Discord](https://discordapp.com/api/guilds/1022170275984457759/widget.png?style=shield)](https://discord.com/invite/dronecode)
+
+نظام **PX4** هو برنامج طيار آلي مفتوح المصدر مخصص للطائرات المسيرة (Drones) والمركبات ذاتية القيادة، ويعمل على الطائرات متعددة المراوح (Multicopters)، ثابتة الجناح (Fixed-Wing)، وطائرات الإقلاع والهبوط العمودي (VTOL)، والعربات الأرضية (Rovers) وغيرها.
+
+---
+
+##  كيف تشارك وتساهم في المشروع؟ (Get Involved)
+
+مشروع PX4 قائم على مساهمات المجتمع الهندسي والبرمجي حول العالم. إذا كنت ترغب في المشاركة وتطوير دعم اللغة العربية أو المساهمة البرمجية، يمكنك البدء من هنا:
+
+* **المساهمة في الترجمة والتعريب (Translations):** نرحب بمساهمتك في ترجمة دليل المستخدم ونظام QGroundControl إلى اللغة العربية عبر منصة Crowdin. لمعرفة خطوات البدء، راجع **[دليل المساهمة في الترجمة الرسمي](https://docs.px4.io/main/en/contribute/translation)**.
+* **المساهمة في التوثيق التقني (Documentation):** لإضافة أو تعديل الشروحات الهندسية في الدليل، راجع [إرشادات التوثيق](https://docs.px4.io/main/en/contribute/docs).
+* **المساهمة البرمجية (Source Code):** لإضافة ميزات جديدة أو إصلاح الأخطاء البرمجية في النظام، راجع [دليل المساهمة العامة](https://docs.px4.io/main/en/contribute/) و[قواعد إدارة الكود المصدري](https://docs.px4.io/main/en/contribute/code).
+
+---
+
+##  روابط أساسية للبدء السريع
+
+* **[دليل مستخدم PX4 الشامل](https://docs.px4.io/main/en/):** المرجع الكامل لتجميع المركبات، ضبط الإعدادات، والطيران.
+* **[المفاهيم الأساسية](https://docs.px4.io/main/en/getting_started/px4_basic_concepts):** نظرة عامة على معمارية النظام، أوضاع الطيران، وميزات الأمان.
+* **[تجربة النظام بالمحاكاة (Simulation)](https://docs.px4.io/main/en/simulation/px4_simulation_quickstart):** تشغيل النظام وتجربته بدون الحاجة لأجهزة فعلية.
+* **[دليل المطورين (Development)](https://docs.px4.io/main/en/development/development):** إعداد بيئة التطوير وبناء الكود المصدري.
+
+---
+
+## الدعم والتواصل مع المجتمع
+
+* **منتدى النقاشات:** اطرح أسئلتك التقنية في [منتدى PX4 الرسمي](https://discuss.px4.io/).
+* **مجتمع ديسكورد (Discord):** تواصل مباشرة مع المطورين والمهندسين عبر [خادم Dronecode على Discord](https://discord.com/invite/dronecode).
+* **الدعم والاجتماعات:** راجع [صفحة الدعم](https://docs.px4.io/main/en/contribute/support) وتعرف على مواعيد [الاجتماع الأسبوعي للمطورين (Dev Call)](https://docs.px4.io/main/en/contribute/dev_call).
+
+---
+
+##  الترخيص
+
+الكود المصدري لنظام PX4 متاح للاستخدام والتعديل مجاناً بموجب رخصة [BSD 3-Clause](https://opensource.org/license/BSD-3-Clause)، والتوثيق مرخص بموجب [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
